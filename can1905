@@ -1,0 +1,6 @@
+"# edebilir" >> README.md yankı 
+git init 
+git README.md eklemek 
+"ilk taahhüt" -m taahhüt budala 
+git uzaktan kökenli eklemek https://github.com/can49/can.git
+ git push-u kökenli asıl
